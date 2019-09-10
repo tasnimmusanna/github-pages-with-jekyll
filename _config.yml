@@ -1,13 +1,12 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: My Amazing Blog
+author: Tasnim Musanna
+email: tmusa1@ocdsb.ca
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  My website is an amazing place where you can read about me. It is very entertaining. Subscribe to my newsletter!!!
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: I don't have twitter :(
+github_username:  @tasnimmusanna
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
